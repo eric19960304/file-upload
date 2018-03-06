@@ -1,0 +1,20 @@
+H2{
+text-align: center;
+}
+
+.center{
+color: CadetBlue;
+text-align: center;
+}
+
+.attention{
+color: Crimson;
+font-weight: bold;
+}
+
+.error{
+color: red;
+font-weight: bold;
+}
+
+
